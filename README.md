@@ -10,7 +10,8 @@ Input Studio — Explore and switch between input methods.
 Interaction Mirror — View and understand personal interaction patterns. 
 Reflection — Share feedback about the experience.
 
-### Research Approach I plan to explore two interaction conditions: completing tasks using a single input method and completing tasks using multiple input methods with user-controlled switching. The comparison will focus on task completion, errors, switching behavior, and how users feel about the experience. With consent, interaction data will be recorded locally in the browser to help understand how people use the prototype. Users will also be able to reset their recorded data. 
+### Research Approach
+I plan to explore two interaction conditions: completing tasks using a single input method and completing tasks using multiple input methods with user-controlled switching. The comparison will focus on task completion, errors, switching behavior, and how users feel about the experience. With consent, interaction data will be recorded locally in the browser to help understand how people use the prototype. Users will also be able to reset their recorded data. 
 
 ### Built With **HTML** **CSS** Vanilla JavaScript Web Speech **API** LocalStorage 
 The initial interface and navigation structure are in place, and the remaining interactions and research features are being developed.
